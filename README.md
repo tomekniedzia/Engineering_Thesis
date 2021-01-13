@@ -1,4 +1,4 @@
-# Engineering thesisi
+# Engineering thesis
 Title: NI myRIO based system for adding sound effects in real time
 
 ## Table of contents
@@ -7,7 +7,7 @@ Title: NI myRIO based system for adding sound effects in real time
 * [Setup](#setup)
 
 ## General info
-This two project are my Engineering thesis. 
+This two projects are my Engineering thesis. 
 
 ### First project present adding some sounds effects: 
 * slider to change: Bass, Midtone, Tremble, Gain 
@@ -27,4 +27,4 @@ Project is created with:
 * NI myRIO
 	
 ## Setup
-To run this project must have myRIO, and LabView. First you have to upload software through connection myRio and PC. Next you have to run code in LabView and program will automatically install all necessary components.
+To run this project you must have myRIO, and LabView. First you have to upload software through connection myRio and PC. Next you have to run code in LabView and program will automatically install all necessary components.
