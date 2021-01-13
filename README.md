@@ -9,7 +9,7 @@ Title: NI myRIO based system for adding sound effects in real time
 ## General info
 This two project are my Engineering thesis. 
 
-###First project present adding some sounds effects: 
+### First project present adding some sounds effects: 
 * slider to change: Bass, Midtone, Tremble, Gain 
 * Echo effect
 * Multiple echo effect
@@ -17,7 +17,7 @@ This two project are my Engineering thesis.
 * Vibrato effect
 * Signalsin effect
 
-###Second project use FPGA which enables work with less sample delay (10 micro seconds). Sound effects added:
+### Second project use FPGA which enables work with less sample delay (10 micro seconds). Sound effects added:
 * Echo effect
 * Sinusoidal apperance and disapperance of echoes
 	
