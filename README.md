@@ -1,4 +1,4 @@
-# Engineering_Thesisi
+# Engineering thesisi
 Title: NI myRIO based system for adding sound effects in real time
 
 ## Table of contents
